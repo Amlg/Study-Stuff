@@ -3,8 +3,8 @@ Study materials sorted by topic
 Folders:
 > General frontend topics
 > JavaScript
->> AngularJS
->> ReactJS
+> AngularJS
+> ReactJS
 > CSS/HTML
 > ...
 ...
